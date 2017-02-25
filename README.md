@@ -5,6 +5,6 @@ COMP-4400 github tuts repo
 
 *****************************
 
-A throwaway repo for a Git tutorial
+A throwaway repo for a Git tutorial by me
 
 Let's learn git basic's together!
