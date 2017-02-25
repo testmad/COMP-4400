@@ -2,3 +2,9 @@
 COMP-4400 github tuts repo
 
 ** C# git ignore is no longer in the premade list during repo creation.  Using C++ instead. **
+
+*****************************
+
+A throwaway repo for a Git tutorial
+
+Let's learn git basic's together!
